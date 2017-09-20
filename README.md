@@ -48,3 +48,12 @@
 5. [Inference for numerical data](Stat101/STAT2331_Ch5_handout.pdf)
 6. [Inference for categorical data](Stat101/STAT2331_Ch6_handout.pdf)
 7. [Simple linear regression](Stat101/STAT2331_Ch7_handout.pdf)
+
+## Probability
+
+1. [Combinatorial Analysis](Probability/MATH40006000_Ch1H.pdf)
+2. [Axioms of Probability](Probability/MATH40006000_Ch2H.pdf)
+3. [Conditional Probability and Independence](Probability/MATH40006000_Ch3H.pdf)
+4. [Discrete Random Variables](Probability/MATH40006000_Ch4H.pdf)
+5. [Continuous Random Variables](Probability/MATH40006000_Ch5H.pdf)
+6. [Joint Distributions and Expectations](Probability/MATH40006000_Ch6-7H.pdf)
