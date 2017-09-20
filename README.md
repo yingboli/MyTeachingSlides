@@ -1,6 +1,6 @@
 # My Teaching Slides
 
-### Introduction to Bayesian Statistics
+## Introduction to Bayesian Statistics
 
 1. [Introduction](Bayesian/F14MATH9810_Lec1.pdf)
 2. [Binomial Model](Bayesian/F14MATH9810_Lec2.pdf)
@@ -19,3 +19,9 @@
 15. [Linear Random Effects Model](Bayesian/F14MATH9810_Lec15.pdf)
 16. [Bayesian Hypothesis Testing](Bayesian/F14MATH9810_Lec16.pdf)
 17. [Bayesian Model Selection and Model Averaging](Bayesian/F14MATH9810_Lec17.pdf)
+
+## Introduction to Statistical Learning
+
+1. [A Quick Review of Classical Statistics](StatLearning/STAT4399_Lec1_stat_review_handout.pdf)
+2. [Introduction to Statistical Learning](StatLearning/STAT4399_Ch2_part1.pdf)
+3. [Assessing Model Accuracy](StatLearning/STAT4399_Ch2_part2.pdf)
