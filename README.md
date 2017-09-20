@@ -20,7 +20,7 @@
 16. [Bayesian Hypothesis Testing](Bayesian/F14MATH9810_Lec16.pdf)
 17. [Bayesian Model Selection and Model Averaging](Bayesian/F14MATH9810_Lec17.pdf)
 
-## Introduction to Statistical Learning
+## Introduction to Statistical Learning (Machine Learning)
 
 1. [A Quick Review of Classical Statistics](StatLearning/STAT4399_Lec1_stat_review_handout.pdf)
 2. [Introduction to Statistical Learning](StatLearning/STAT4399_Ch2_part1.pdf)
@@ -38,3 +38,13 @@
 14. [Bagging, Random Forests, and Boosting](StatLearning/STAT4399_Ch8_part2.pdf)
 15. [Support Vector Machines](StatLearning/STAT4399_Ch9.pdf)
 16. [Clustering and Principle Component Analysis](StatLearning/STAT4399_Ch10.pdf)
+
+## Statistics 101
+
+1. [Introduction to data](Stat101/STAT2331_Ch1_handout.pdf)
+2. [Probability](Stat101/STAT2331_Ch2_handout.pdf)
+3. [Normal distribution](Stat101/STAT2331_Ch3_handout.pdf)
+4. [Foundations for inference](Stat101/STAT2331_Ch4_handout.pdf)
+5. [Inference for numerical data](Stat101/STAT2331_Ch5_handout.pdf)
+6. [Inference for categorical data](Stat101/STAT2331_Ch6_handout.pdf)
+7. [Simple linear regression](Stat101/STAT2331_Ch7_handout.pdf)
